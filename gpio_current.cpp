@@ -2,7 +2,7 @@
  * main.cpp
  *
  *  Created on: 18 jan 2022
- *      Author: fue034
+ *      Author: Giovanni Andrea Conte
  *      Description:
  *
  *
