@@ -1,5 +1,5 @@
 /*
- * main.cpp
+ * Jetson gpio main.cpp
  *
  *  Created on: 18 jan 2022
  *      Author: Giovanni Andrea Conte
